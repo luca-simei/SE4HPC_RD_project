@@ -1,4 +1,7 @@
 # <div align="center"> SE4HPC Assignment </div> <div align="center"> R&D Project, AY. 2023-2024 </div>
+
+![EcoWay](https://github.com/luca-simei/SE4HPC_RD_project/blob/main/images/ewicon.jpg)
+
 ## <div align="center"> Marco Cioci, Francesco Rosanti, Luca Simei, Alberto Taddei </div>
 
 This is the Requirement Engineering and Design project for the Software Engineering for HPC course @ Politecnico di Milano. Objective of this project is create a document with focus on requirement analysis and design based on a given problem. This project has been awarded the maximum grade.
@@ -19,3 +22,12 @@ means, their occupation rates and delays (if any).
 
 ### Our Solution
 We developed a service named _EcoWay_ as a solution to the mentioned problems, with the purpose of encouraging people to use their vehicles less and opt for healthier alternatives, such as bicycles, which benefit both them and the environment. From the users' point of view, it’s an application that offers an analysis of the best route for their travels, with the possibility to borrow bicycles managed by an external organization. Additionally, it allows users to check timetables for trams and other public transportation and to purchase tickets directly online. Urban Area Managers can analyze various data from a private dashboard and either share it or contact external partners directly. The final document with further information can be found [here](https://github.com/luca-simei/SE4HPC_RD_project/blob/main/EcoWay.pdf).
+
+### Developers
+[Marco Cioci](https://github.com/MarcoCioci)
+
+[Francesco Rosnati](https://github.com/RosNaviGator)
+
+[Luca Simei](https://github.com/luca-simei)
+
+Alberto Taddei
