@@ -1,4 +1,4 @@
-# <div align="center"> SE4HPC Assignment </div> <div align="center"> DevOps Project, AY. 2023-2024 </div>
+# <div align="center"> SE4HPC Assignment </div> <div align="center"> R&D Project, AY. 2023-2024 </div>
 ## <div align="center"> Marco Cioci, Francesco Rosanti, Luca Simei, Alberto Taddei </div>
 
 This is the Requirement Engineering and Design project for the Software Engineering for HPC course @ Politecnico di Milano. Objective of this project is create a document with focus on requirement analysis and design based on a given problem. This project has been awarded the maximum grade.
