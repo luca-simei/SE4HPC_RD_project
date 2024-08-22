@@ -2,9 +2,10 @@
 
 ![EcoWay](https://github.com/luca-simei/SE4HPC_RD_project/blob/main/images/ewicon.jpg)
 
-## <div align="center"> Marco Cioci, Francesco Rosanti, Luca Simei, Alberto Taddei </div>
+## <div align="center"> Marco Cioci, Francesco Rosnati, Luca Simei, Alberto Taddei </div>
 
-This is the Requirement Engineering and Design project for the Software Engineering for HPC course @ Politecnico di Milano. Objective of this project is create a document with focus on requirement analysis and design based on a given problem. This project has been awarded the maximum grade.
+This is the Requirement Engineering and Design project for the Software Engineering for HPC course @ Politecnico di Milano with Professor Di Nitto. Objective of this project is create a document with focus on requirement analysis and design based on a given problem. 
+__This project has been awarded the maximum grade.__
 
 ### The Problem
 Based on the problem of air pollution, greenhouse gas emissions, and transportation, our task was to develop a solution for the project "Eco-City Commute" (ECC), which aims to create a comprehensive software system that makes public transportation within an urban area as easy and efficient as possible, promoting its adoption. Specifically, we had to focus on the requirements analysis and design work related to the features dedicated to both types of stakeholders mentioned. Further information about the problem and the assignment rules can be found [here](https://github.com/luca-simei/SE4HPC_RD_project/blob/main/Specification/RD_project.pdf).
