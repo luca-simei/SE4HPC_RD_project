@@ -5,6 +5,7 @@
 ## <div align="center"> Marco Cioci, Francesco Rosnati, Luca Simei, Alberto Taddei </div>
 
 This is the Requirement Engineering and Design project for the Software Engineering for HPC course @ Politecnico di Milano with Professor Di Nitto. Objective of this project is create a document with focus on requirement analysis and design based on a given problem. 
+
 __This project has been awarded the maximum grade.__
 
 ### The Problem
